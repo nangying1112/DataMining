@@ -1,9 +1,9 @@
 对于数据集NFL Play by Play 2009-2017 (v4)：
-标称属性数据处理结果存放在NFL Play by Play 2009-2017 (v4)_frequency.json文件中
-数值属性的数据处理结果存放在NFL Play by Play 2009-2017 (v4)_numeric_result.json文件中
+标称属性数据处理结果存放在process_results/NFL Play by Play 2009-2017 (v4)_frequency.json文件中
+数值属性的数据处理结果存放在process_results/NFL Play by Play 2009-2017 (v4)_numeric_result.json文件中
 
 对于数据集Building_Permits：
-标称属性的数据处理结果存放在Building_Permits_frequency.json文件中
-数值属性的数据处理结果存放在Building_Permits_numerical_result.json文件中，json文件中
+标称属性的数据处理结果存放在process_results/Building_Permits_frequency.json文件中
+数值属性的数据处理结果存放在process_results/Building_Permits_numerical_result.json文件中，json文件中
 
 diagram中存放生成的直方图、盒图和qq图
