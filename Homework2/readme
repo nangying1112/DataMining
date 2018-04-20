@@ -1,1 +1,2 @@
-
+通过实现 Apriori 算法，最终得到了频繁项集、关联规则。分别存在了文件frequency_results.txt 和 rule_confidence_results.txt中
+用lift评价挖掘的关联规则，评分由高到低排列，存放在lift_results中
